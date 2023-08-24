@@ -660,7 +660,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
     Collab: 0
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -674,10 +677,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: f676c0f2-58c2-4b84-a736-b76dc5c4c915
+  cloudProjectId: 1c1bb228-6c0d-4cf0-9c6a-d540b51d4396
   framebufferDepthMemorylessMode: 0
   projectName: Ski Game
-  organizationId: jason-232863
+  organizationId: viniciusgil
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
